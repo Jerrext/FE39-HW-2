@@ -1,2 +1,2 @@
-# FE39-HW-2
+# Full Responsive CV
 Landing Page
